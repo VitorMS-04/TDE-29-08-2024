@@ -1,0 +1,14 @@
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\tde 29-08-2024\bin\Debug\net8.0\tde 29-08-2024.exe
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\tde 29-08-2024\bin\Debug\net8.0\tde 29-08-2024.deps.json
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\tde 29-08-2024\bin\Debug\net8.0\tde 29-08-2024.runtimeconfig.json
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\tde 29-08-2024\bin\Debug\net8.0\tde 29-08-2024.dll
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\tde 29-08-2024\bin\Debug\net8.0\tde 29-08-2024.pdb
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\tde 29-08-2024\obj\Debug\net8.0\tde 29-08-2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\tde 29-08-2024\obj\Debug\net8.0\tde 29-08-2024.AssemblyInfoInputs.cache
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\tde 29-08-2024\obj\Debug\net8.0\tde 29-08-2024.AssemblyInfo.cs
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\tde 29-08-2024\obj\Debug\net8.0\tde 29-08-2024.csproj.CoreCompileInputs.cache
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\tde 29-08-2024\obj\Debug\net8.0\tde 29-08-2024.dll
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\tde 29-08-2024\obj\Debug\net8.0\refint\tde 29-08-2024.dll
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\tde 29-08-2024\obj\Debug\net8.0\tde 29-08-2024.pdb
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\tde 29-08-2024\obj\Debug\net8.0\tde 29-08-2024.genruntimeconfig.cache
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\tde 29-08-2024\obj\Debug\net8.0\ref\tde 29-08-2024.dll
